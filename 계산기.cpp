@@ -5,7 +5,7 @@
 #include <stack>
 #include <vector>
 using namespace std;
-//asdfasdf
+//asdfasd
 int priority(int op)
 {
 	switch (op)
